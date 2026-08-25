@@ -18,7 +18,7 @@ select * from Student;
 alter table Student add Email varchar(30);
 alter table Student add Phonenumber integer(10);
 desc Student;
-insert Student values("102", "GUNA","2007-09-05", "Male","10002", "g8208003@gmail.com", "7540061820");
+insert Student values("102", "GUNA","2006-09-05", "Male","10002", "g8208003@gmail.com", "7540061820");
 desc Student;
 select * from Student;
 
